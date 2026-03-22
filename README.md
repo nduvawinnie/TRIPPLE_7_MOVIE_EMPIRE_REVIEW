@@ -29,6 +29,32 @@ Tripple Seven plans to launch a new movie studio but lacks experience in the fil
 ## 4. Data Understanding
 #### Data Source The data was sourced from GitHub: https://github.com/learn-co-curriculum/dsc-phase-2-project-v3
 
+### 4.1 Selected Datasets 
+*tmdb.movies.csv* – movie genres, ratings, popularity, and release dates 
+*tn.movie_budgets.csv* – production budget, domestic gross, and worldwide gross
+### 4.2 Selected Columns 
+*tmdb.movies.csv* 
+-title 
+-genre_ids 
+- vote_average
+- popularity
+- release_date
+*tn.movie_budgets.csv*
+- movie
+- production_budget
+- domestic_gross
+- worldwide_gross
+- release_date
+### 4.3 Visualization Metrics 
+- Genres
+- Production Budget
+- Domestic Gross
+- Worldwide Gross
+- Total Profit
+- Vote Average
+- Release Year
+- Release Month
+
 ## 5. Data Cleaning 
 - Merged the two datasets
 - Converted budget and revenue columns to numeric values
@@ -71,3 +97,4 @@ The analysis provides actionable insights for Tripple 7 Movie Empire to guide pr
 ## Resources and links
 ### *Tableau dashboard:*
 https://public.tableau.com/views/Group7ProjectMovies/Trippe_777_Movies?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
