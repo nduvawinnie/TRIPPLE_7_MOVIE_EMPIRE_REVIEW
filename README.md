@@ -5,6 +5,7 @@
 # **Table of Content**
 #### **1. Overview**
 #### **2. Business Problem**
+#### **3. Business Understanding**
 #### **4. Data Understanding**
 #### **5. Data Cleaning and Preparation**
 #### **6. Business Analysis, Key Findings, and Recommendations**
@@ -23,15 +24,30 @@ Tripple 7 movie empire is a start up company that wants to compete in the movie 
 Tripple Seven plans to launch a new movie studio but lacks experience in the film industry. The company does not know which types of movies perform best at the box office or what factors contribute to financial success. Without proper analysis, investing in movie production could lead to financial losses. This project uses historical movie data to identify profitable trends and reduce investment risk.
 
 ## 3. Business Understanding
+The movie industry is a multi-billion-dollar industry that has been growing rapidly in recent years, evolving from analog to digital eras.
+#### Major growth factors include:
+-Internet and Streaming Platforms: Movies are now easily accessible worldwide without needing physical stores (CDs/DVDs).
+-Visual Effects (CGI, VFX): Ensures high-quality production.
+-Large Investments: Secures timely production and distribution.
+-Changing Audience Preferences: Diverse genres cater to a global audience.
 
-#### Stakeholders - Board of Directors
+#### Industry risks include:
+piracy, budget overruns, economic downturns, weather-related issues, cast illness/injury, and poor box-office performance.
+
+#### Mitigation Strategy:
+Data analysis helps identify trends and audience preferences to reduce risk during planning and production.
+
+#### Objectives
+-Determine the most profitable movie genres.
+-Identify the best time to release a movie for maximum returns.
+-Analyze whether higher-rated movies generate more revenue.
 
 ## 4. Data Understanding
-#### Data Source The data was sourced from GitHub: https://github.com/learn-co-curriculum/dsc-phase-2-project-v3
+##### Data Source The data was sourced from GitHub: https://github.com/learn-co-curriculum/dsc-phase-2-project-v3
 
 ### 4.1 Selected Datasets 
-*tmdb.movies.csv* – movie genres, ratings, popularity, and release dates 
-*tn.movie_budgets.csv* – production budget, domestic gross, and worldwide gross
+-*tmdb.movies.csv* – movie genres, ratings, popularity, and release dates 
+-*tn.movie_budgets.csv* – production budget, domestic gross, and worldwide gross
 ### 4.2 Selected Columns 
 *tmdb.movies.csv* 
 -title 
@@ -58,7 +74,8 @@ Tripple Seven plans to launch a new movie studio but lacks experience in the fil
 ## 5. Data Cleaning 
 - Merged the two datasets
 - Converted budget and revenue columns to numeric values
-- Removed duplicates - Extracted release year and release month
+- Removed duplicates 
+-  Extracted release year and release month
 - Created total profit column - Converted genre IDs into genre names
 - Handled missing values
 
@@ -97,9 +114,9 @@ The analysis provides actionable insights for Tripple 7 Movie Empire to guide pr
 ## Resources and links
 ### *Tableau dashboard:*
 https://public.tableau.com/views/Group7ProjectMovies/Trippe_777_Movies?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-### *TRIPPLE_7_MOVIE_EMPIRE PRESENTATION:*
-pptx
-### *FINAL NOTEBOOK:*
+### *Tripple_7_movie_empire:*
+pdf
+### *Final notebook:*
 project.ipynb
 
 
