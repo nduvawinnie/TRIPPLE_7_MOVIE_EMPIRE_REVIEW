@@ -97,4 +97,9 @@ The analysis provides actionable insights for Tripple 7 Movie Empire to guide pr
 ## Resources and links
 ### *Tableau dashboard:*
 https://public.tableau.com/views/Group7ProjectMovies/Trippe_777_Movies?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+### *TRIPPLE_7_MOVIE_EMPIRE PRESENTATION:*
+pptx
+### *FINAL NOTEBOOK:*
+project.ipynb
+
 
