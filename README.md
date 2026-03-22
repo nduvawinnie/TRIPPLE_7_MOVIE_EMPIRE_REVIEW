@@ -31,11 +31,11 @@ Tripple Seven plans to launch a new movie studio but lacks experience in the fil
 ### Data Source The data was sourced from GitHub: https://github.com/learn-co-curriculum/dsc-phase-2-project-v3
 
 ## 5. Data Cleaning 
-- Merged the two datasets
-- Converted budget and revenue columns to numeric values
-- Removed duplicates - Extracted release year and release month
-- Created total profit column - Converted genre IDs into genre names
-- Handled missing values
+. Merged the two datasets
+. Converted budget and revenue columns to numeric values
+. Removed duplicates - Extracted release year and release month
+. Created total profit column - Converted genre IDs into genre names
+. Handled missing values
 ## 6. Data Analysis
 ### 6.1 Univariate Analysis 
 - Distribution of movie ratings
