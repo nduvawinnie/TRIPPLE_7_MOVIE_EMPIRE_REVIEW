@@ -10,19 +10,21 @@
 ### **5.Data Cleaning and Preparation**
 ### **6.Business Analysis, Key Findings, and Recommendations**
 ### **7.Conclusion**
+### **8.Resources and Links
 
 ## 1. **Overview**
 Tripple 7 movie empire is a start up company that wants to compete in the movie industry.  This analysis will help to give a general overview of the industry, to ensure the stakeholders understand how the industry works and what to expect of it, which will be ideal for decison making.
 
 ## **Key Business Questions**
-## 1.Which movie genres are the most profitable?
-## 2.When is the best time to release a movie for maximum returns?
-## 3.Do higher-rated movies generate more revenue?
+### 1.Which movie genres are the most profitable?
+### 2.When is the best time to release a movie for maximum returns?
+### 3.Do higher-rated movies generate more revenue?
 
 ## 2. Business Problem
 Tripple Seven plans to launch a new movie studio but lacks experience in the film industry. The company does not know which types of movies perform best at the box office or what factors contribute to financial success. Without proper analysis, investing in movie production could lead to financial losses. This project uses historical movie data to identify profitable trends and reduce investment risk.
 
 ## 3. Business Understanding
+
 ### Stakeholders - Board of Directors
 
 ## 4. Data Understanding
@@ -59,3 +61,7 @@ Tripple Seven plans to launch a new movie studio but lacks experience in the fil
 -Balance production budget and commercial appeal
 ## 7. Conclusion
 The analysis provides actionable insights for Tripple 7 Movie Empire to guide production, release strategy, and budget allocation. By focusing on profitable genres, strategic release timing, and global market expansion, Tripple 7 can reduce financial risk and improve its chances of success in the movie industry.
+
+## Resources and links
+### *Tableau dashboard:*
+https://public.tableau.com/views/Group7ProjectMovies/Trippe_777_Movies?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
