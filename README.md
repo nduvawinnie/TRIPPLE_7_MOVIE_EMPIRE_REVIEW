@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎬 TRIPPLE 7 MOVIE EMPIRE REVIEW
 =======
 # TRIPPLE 7 MOVIE EMPIRE REVIEW
@@ -17,5 +17,4 @@ Tripple 7 movie empire is a start up company that wants to compete in the movie 
 ## 1.Which movie genres are the most profitable?
 ## 2.When is the best time to release a movie for maximum returns?
 ## 3.Do higher-rated movies generate more revenue?
->>>>>>> origin/my_feature_branch
 
