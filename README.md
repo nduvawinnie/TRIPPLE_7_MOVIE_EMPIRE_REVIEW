@@ -26,10 +26,10 @@ Tripple Seven plans to launch a new movie studio but lacks experience in the fil
 ## 3. Business Understanding
 The movie industry is a multi-billion-dollar industry that has been growing rapidly in recent years, evolving from analog to digital eras.
 #### Major growth factors include:
--Internet and Streaming Platforms: Movies are now easily accessible worldwide without needing physical stores (CDs/DVDs).
--Visual Effects (CGI, VFX): Ensures high-quality production.
--Large Investments: Secures timely production and distribution.
--Changing Audience Preferences: Diverse genres cater to a global audience.
+- Internet and Streaming Platforms: Movies are now easily accessible worldwide without needing physical stores (CDs/DVDs).
+- Visual Effects (CGI, VFX): Ensures high-quality production.
+- Large Investments: Secures timely production and distribution.
+- Changing Audience Preferences: Diverse genres cater to a global audience.
 
 #### Industry risks include:
 piracy, budget overruns, economic downturns, weather-related issues, cast illness/injury, and poor box-office performance.
@@ -38,16 +38,15 @@ piracy, budget overruns, economic downturns, weather-related issues, cast illnes
 Data analysis helps identify trends and audience preferences to reduce risk during planning and production.
 
 #### Objectives
--Determine the most profitable movie genres.
--Identify the best time to release a movie for maximum returns.
--Analyze whether higher-rated movies generate more revenue.
+- Determine the most profitable movie genres.
+- Identify the best time to release a movie for maximum returns.
+- Analyze whether higher-rated movies generate more revenue.
 
 ## 4. Data Understanding
 ##### Data Source The data was sourced from GitHub: https://github.com/learn-co-curriculum/dsc-phase-2-project-v3
-
 ### 4.1 Selected Datasets 
--*tmdb.movies.csv* – movie genres, ratings, popularity, and release dates 
--*tn.movie_budgets.csv* – production budget, domestic gross, and worldwide gross
+- *tmdb.movies.csv* – movie genres, ratings, popularity, and release dates 
+- *tn.movie_budgets.csv* – production budget, domestic gross, and worldwide gross
 ### 4.2 Selected Columns 
 *tmdb.movies.csv* 
 -title 
