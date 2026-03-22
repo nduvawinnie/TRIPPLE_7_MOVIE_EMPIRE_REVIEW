@@ -1,8 +1,8 @@
 
-# 🎬 TRIPPLE 7 MOVIE EMPIRE REVIEW
-# TRIPPLE 7 MOVIE EMPIRE REVIEW
+# 🎬 TRIPLE 7 MOVIE EMPIRE REVIEW
+# TRIPLE 7 MOVIE EMPIRE REVIEW
 
-# **Table of Content**
+# **Table of Contents**
 #### **1. Overview**
 #### **2. Business Problem**
 #### **3. Business Understanding**
